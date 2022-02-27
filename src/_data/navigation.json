@@ -6,14 +6,14 @@
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/andy-piccalilli/hylia",
+      "text": "About Me",
+      "url": "https://liiniix.github.io/",
       "external": true
-    },
-    {
-      "text": "Example Contact Page",
-      "url": "/contact",
-      "external": false
     }
-  ]
+  ],
+  "_comment": {
+    "text": "Example Contact Page",
+    "url": "/contact",
+    "external": false
+  }
 }
